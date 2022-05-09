@@ -1,0 +1,9 @@
+{
+	"name": "xtgadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "763f6b14-a29f-48b0-8312-3836223e3e89",
+		"tenantId": "081f1af1-6d5d-45da-8bbd-c264fc36d149"
+	}
+}
